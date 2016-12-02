@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\helpdesk\documents\visual studio 2015\projects\interpolacion\interpolacion\source.cpp(76): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\helpdesk\documents\visual studio 2015\projects\interpolacion\interpolacion\source.cpp(77): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\helpdesk\documents\visual studio 2015\projects\interpolacion\interpolacion\source.cpp(48): warning C4101: 'x_diff': variable local sin referencia
+c:\users\helpdesk\documents\visual studio 2015\projects\interpolacion\interpolacion\source.cpp(48): warning C4101: 'y_diff': variable local sin referencia
+  Interpolacion.vcxproj -> C:\Users\helpdesk\Documents\Visual Studio 2015\Projects\Interpolacion\x64\Debug\Interpolacion.exe
+  Interpolacion.vcxproj -> C:\Users\helpdesk\Documents\Visual Studio 2015\Projects\Interpolacion\x64\Debug\Interpolacion.pdb (Full PDB)
