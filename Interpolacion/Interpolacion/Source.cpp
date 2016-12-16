@@ -105,9 +105,9 @@ int main() {
 	int h1 = img.cols;
 
 	int rsz = 3; // veces que crecera la imagen
-	//img = NNI(img,rsz);
+	img = NNI(img,rsz);      // Funcion Nearest neighbor Interpolation
 
-	img = BilImgS(img,rsz);
+	img = BilImgS(img,rsz);    // Funcion Bilineal
 
 	imshow("Montando",img);
 
